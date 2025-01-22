@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bass_Seogi</h1>
+<h1 align="center">Hi 👋, I'm Bass_Seogi Sub-account 부계정</h1>
 <h3 align="center">SCS ETS2 ATS Kor Localization , Mod Creator 한국어 번역 , 모드 제작자</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bass-seogi&label=Profile%20views&color=0e75b6&style=flat" alt="bass-seogi" /> </p>
